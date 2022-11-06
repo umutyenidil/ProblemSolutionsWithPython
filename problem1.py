@@ -14,4 +14,4 @@ for number in range(1000):
 # print(*multiplesOf3And5)
 
 sumOfMultiples = sum(multiplesOf3And5)
-print(f'The sum of all the multiples of 3 or 5 below 1000 is {sumOfMultiples}')
+print('The sum of all the multiples of 3 or 5 below 1000 is {}'.format(sumOfMultiples))
