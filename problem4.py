@@ -12,7 +12,7 @@ number = 0
 factory1 = 0
 factory2 = 0
 
-digitCount = 2
+digitCount = 3
 
 for num1 in range(pow(10, digitCount) - 1, pow(10, digitCount - 1) - 1, -1):
     factory1 = num1
